@@ -1,14 +1,17 @@
-# About This Guide
+# About This Website
 ---
-This guide was written by staff members of the [Lockdown RP community](https://discord.gg/AyhJfGUGfU)
+The content on this website was written by staff members of the [Lockdown RP community](https://discord.gg/AyhJfGUGfU).
+
 
 > **Credits**
 >
-> **Max, Fungus, Makdot, Avannteth**
+> **Max, Fungus, Makdot, Luliela**
 >
-> Thank you to [everyone else](https://github.com/LockdownRP-PZ/lockdownrp-pz.github.io/graphs/contributors) that contributed to the guide on GitHub.
+> Thank you to [everyone else](https://github.com/LockdownRP-PZ/lockdownrp-pz.github.io/graphs/contributors) that contributed to this website on GitHub.
 
-?> [You can find the source for this wiki on GitHub](https://github.com/LockdownRP-PZ/lockdownrp-pz.github.io/), It is licensed under the [ISC License](https://github.com/hacks-guide/Guide-WiiU/blob/master/LICENSE.md).
+?> [You can find the source for this wiki on GitHub](https://github.com/LockdownRP-PZ/lockdownrp-pz.github.io/), the technical parts of which licensed under the
+[ISC License](https://github.com/hacks-guide/Guide-WiiU/blob/master/LICENSE.md). Actual content on the wiki is all rights reserved to their respective authors, and may hence **not**
+be copied, redistributed, or otherwise used without permission.
 
 <figure class="thumbnails">
     <img src="docs/assets/img/logo.png" alt="Lockdown RP" title="Lockdown RP">
